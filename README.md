@@ -1,2 +1,2 @@
 # Giddieproject
-Zuri Django assignment
+Zuri Django assignment on a personal project
